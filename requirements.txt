@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+youtube-transcript-api
+python-dotenv
+huggingface_hub
