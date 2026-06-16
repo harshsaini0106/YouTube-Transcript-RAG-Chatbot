@@ -24,7 +24,7 @@ A Retrieval-Augmented Generation (RAG) application that allows users to chat wit
 
 ## Application Screenshot
 
-![Application Screenshot](images/app_screenshot.png)
+![Application Screenshot](Screenshot/screenshot2.png)
 
 ## Project Workflow
 
